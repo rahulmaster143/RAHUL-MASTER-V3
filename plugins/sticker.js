@@ -25,7 +25,7 @@ cmd({
 
             let sticker = new Sticker(nameJpg, {
                 pack: 'Empire_X', // Sticker pack name
-                author: pushname || 'Hacker Only_🥇Empire', // Author name, fallback to 'Hacker Only_🥇Empire'
+                author: pushname || 'RAHUL-MASTER-V3', // Author name, fallback to 'RAHUL-MASTER-V3'
                 type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
                 categories: ['🤩', '🎉'], // Sticker categories
                 id: '12345', // Sticker id
@@ -41,8 +41,8 @@ cmd({
             await require('fs').promises.writeFile(nameWebp, stickerBuffer);
 
             let sticker = new Sticker(nameWebp, {
-                pack: 'Empire_X', // Sticker pack name
-                author: pushname || 'Hacker Only_🥇Empire', // Author name, fallback to 'Hacker Only_🥇Empire'
+                pack: 'RAHUL-MASTER-V3', // Sticker pack name
+                author: pushname || 'RAHUL-MASTER-V3', // Author name, fallback to 'RAHUL-MASTER-V3'
                 type: q.includes('--crop') || q.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
                 categories: ['🤩', '🎉'], // Sticker categories
                 id: '12345', // Sticker id
