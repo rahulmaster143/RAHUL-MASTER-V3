@@ -28,7 +28,7 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-*MADE By 𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐄𝐦𝐩𝐢𝐫𝐞`;
+*MADE By RAHUL-MASTER-V3`;
 
                                  return reply(wordInfo);
                              } catch (e) {
