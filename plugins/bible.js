@@ -118,7 +118,7 @@ cmd({
 26. Jude
 27. Revelation
 
-> Empire_X Bible List
+> RAHUL-MASTER-V3 Bible List
 `;
 
         const imageUrl = "https://files.catbox.moe/kx30st.jpeg"; 
