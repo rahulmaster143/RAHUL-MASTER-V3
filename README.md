@@ -9,7 +9,7 @@
   
 ## Deployment Methods
 ---
-1.  ***Get Session Id by [Pairing Code](https://efeurhobo-empire-x-home.vercel.app/) Link Device***
+1.  ***Get Session Id by [Pairing Code](https://efeurhobo-rahul-x-home.vercel.app/) Link Device***
 2.  ***Click [Fork](https://github.com/efeurhobo/RAHUL-MASTER-V3/fork) and Star ⭐ Repository***
 3.  ***Deploy on [Heroku](https://efeurhobo-empire-x.vercel.app/)***
 4.  ***Deploy on [Replit]()***
