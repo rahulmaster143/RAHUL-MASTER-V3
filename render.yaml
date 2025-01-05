@@ -1,17 +1,17 @@
 services:
   - type: web
-    name: Empire_X
+    name: RAHUL-MASTER-V3
     buildCommand: "npm install"  # Install dependencies
     startCommand: "pm2 start index.js --deep-monitoring --attach --name Empire_X"  # Start command with PM2
     plan: free  # Choose the free plan, or upgrade depending on your needs
     runtime: "node"  # Use the Node.js runtime (this should work on Render)
     envVars:
       - key: OWNER_NUMBER
-        value: "2348078582627"  # Replace with your actual owner's phone number
+        value: "919356730236"  # Replace with your actual owner's phone number
       - key: OWNER_NAME
-        value: "Ony_one_🥇Empire"  # Replace with owner name 
+        value: "RAHUL-MASTER-V3"  # Replace with owner name 
       - key: BOT_NAME
-        value: "Empire_X"  # Do not change
+        value: "RAHUL-MASTER-V3"  # Do not change
       - key: SESSION_ID
         value: "2c9AxRoC#2idz_QjbUhWWlkjM62Snu5hKE9pHu5vkMTlPOqED-4o"  # Replace with your actual session ID (if needed)
       - key: PREFIX
@@ -25,6 +25,6 @@ services:
       - key: OWNER_REACT
         value: "false"  # Enable owner-specific reactions if needed
       - key: ALIVE_IMG
-        value: "https://raw.githubusercontent.com/efeurhobo/Empire_X/main/lib/assets/empire.jpg"  # Replace with owner
+        value: "https://api.tioo.eu.org/file/24Mz9c3fxSHl.jpeg"  # Replace with owner
       - key: CAPTION
-        value: "Made By 𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐞𝐦𝐩𝐢𝐫𝐞"  # do not change 
+        value: "Made By RAHUL-MASTER-V3"  # do not change 
