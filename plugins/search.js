@@ -118,18 +118,18 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => 
 // repo commands 
 cmd({
     pattern: "repo", 
-    desc: "Fetch RAHUL-MASTER-V3 repository details",
+    desc: "Fetch rahul-master-v3 repository details",
     category: "search",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => {
-    const githubRepoURL = 'https://github.com/efeurhobo/Empire_X';
+    const githubRepoURL = 'https://github.com/rahul-master/rahul-master-v3';
 
     try {
         // Validate that the URL is in the correct format
         const regexMatch = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
         if (!regexMatch) {
-            reply("RAHUL-MASTER-V3 says: Invalid GitHub URL format.");
+            reply("rahul-master-v3 says: Invalid GitHub URL format.");
             return;
         }
         
@@ -151,12 +151,12 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => 
 │⭐ Stars: ${repoData.stargazers_count}
 │🍴 Forks: ${repoData.forks_count}
 │🌐 URL: ${repoData.html_url}
-│🏠 Session: https://empire-x-paircode.onrender.com
+│🏠 Session: https://rahul-master-v3-paircode.onrender.com
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━──⊷
 
 ╭────❏ *JOIN US* ❏
-│📞 Group: https://chat.whatsapp.com/DLrFOwuOnLwDS5VLeCuxHe
-│🤖 Channel: https://whatsapp.com/channel/0029VajVvpQIyPtUbYt3Oz0k
+│📞 contact: 919356730236
+│🤖 owner-name:rahul-master
 ╰━━━━━━━━━━━━━━━━━━━━━━━━──⊷
 
 ╭────❏ *DEPLOY NOW* ❏
@@ -167,7 +167,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => 
             // Send the formatted information as a message
             await conn.sendMessage(from, { text: formattedInfo }, { quoted: mek });
         } else {
-            reply("RAHUL-MASTER-V3 says: Unable to fetch repository information.");
+            reply("rahul-master-v3 says: Unable to fetch repository information.");
         }
     } catch (error) {
         // Log the full error message for debugging
