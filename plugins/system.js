@@ -16,7 +16,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         const botUptime = runtime(process.uptime());
 
         const aliveMsg = `
-╭━━━▻〔 *Empire_X IS Active* 〕━━━━⬤
+╭━━━▻〔 *RAHUL-MASTER-V3 IS Active* 〕━━━━⬤
 ┃𖠄╭────────────────────·๏
 ┃𖠄┃ *Uptime:* 
 ┃𖠄┃• (${botUptime.days}) Days
@@ -29,7 +29,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
 
         // Information Message
         const infoMessage = {
-    image: { url: 'https://raw.githubusercontent.com/efeurhobo/Empire_X/main/lib/assets/empire.jpg' },
+    image: { url: 'https://api.tioo.eu.org/file/24Mz9c3fxSHl.jpeg' },
     caption: aliveMsg,
     contextInfo: {
         mentionedJid: [mek.sender],
@@ -37,7 +37,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363337275149306@newsletter',
-            newsletterName: "Empire_X",
+            newsletterName: "RAHUL-MASTER-V3",
             serverMessageId: 143
         }
     }
@@ -102,9 +102,8 @@ async (conn, mek, m, { from, quoted, pushname, reply }) => {
         const uptime = formatUptime(process.uptime());
 
         const uptimeMessage = `
-╭━━━▻〔 *Empire_X BOT UPTIME* 〕━━━━⬤
-┃𖠄╭────────────────────·๏
-┃𖠄┃ *Uptime:*  
+╭━━━▻〔 *RAHUL-MASTER-V3 BOT UPTIME* 〕━━━━⬤
+┃𖠄╭───────────────┃𖠄┃ *Uptime:*  
 ${uptime}
 ┃𖠄└────────────────────·๏
 ╰━━━━━━━━━━━━━━━━━━━━━⬤
@@ -117,7 +116,7 @@ ${uptime}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363337275149306@newsletter', // Your newsletter JID
-                    newsletterName: "Empire_X",                  // Your newsletter name
+                    newsletterName: "RAHUL-MASTER-V3",                  // Your newsletter name
                     serverMessageId: 143                         // Adjust based on the actual message ID you want to forward
                 }
             }
@@ -176,7 +175,7 @@ cmd({
 
 cmd({
     pattern: "ping",
-    react: "♻️",
+    react: "🚀",
     alias: ["speed"],
     desc: "Check bot\'s ping",
     category: "system",
@@ -189,7 +188,7 @@ const startTime = Date.now()
         const message = await conn.sendMessage(from, { text: '*_Pinging..._*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `*Pong.. : ${ping}ms*`}, { quoted: message })
+        await conn.sendMessage(from, { text: `*🚀RAHUL-MASTER-V3-Pong.. : ${ping}ms*`}, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
