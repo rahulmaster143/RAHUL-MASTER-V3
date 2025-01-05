@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const response = await axios.get(apiUrl);
         const data = response.data;
 
-        let userInfo = `     👨‍💻*Empire_X GITSTALK*👨‍💻
+        let userInfo = `     👨‍💻*RAHUL-MASTER-V3 GITSTALK*👨‍💻
         
 👤 *ᴜꜱᴇʀ ɴᴀᴍᴇ*: ${data.name || data.login}
 
@@ -72,7 +72,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 🔭 *ᴘᴜʙʟɪᴄ ɢɪꜱᴛꜱ*: ${data.public_gists}
 
-*MADE ♥ BY Empire_X*
+*MADE ♥ BY RAHUL-MASTER-V3*
 `;
 
         await conn.sendMessage(from, { image: { url: data.avatar_url }, caption: userInfo }, { quoted: mek });
@@ -118,7 +118,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => 
 // repo commands 
 cmd({
     pattern: "repo", 
-    desc: "Fetch Empire_X repository details",
+    desc: "Fetch RAHUL-MASTER-V3 repository details",
     category: "search",
     filename: __filename
 },
@@ -129,7 +129,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => 
         // Validate that the URL is in the correct format
         const regexMatch = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
         if (!regexMatch) {
-            reply("Empire_X says: Invalid GitHub URL format.");
+            reply("RAHUL-MASTER-V3 says: Invalid GitHub URL format.");
             return;
         }
         
@@ -160,14 +160,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => 
 ╰━━━━━━━━━━━━━━━━━━━━━━━━──⊷
 
 ╭────❏ *DEPLOY NOW* ❏
-│_DEPLOY 𝐄𝐌𝐏𝐈𝐑𝐄_𝑋 NOW_
+│_DEPLOY RAHUL-MASTER-V3 NOW_
 ╰━━━━━━━━━━━━━━━━━━━━━━━━──⊷
 `.trim();
 
             // Send the formatted information as a message
             await conn.sendMessage(from, { text: formattedInfo }, { quoted: mek });
         } else {
-            reply("Empire_X says: Unable to fetch repository information.");
+            reply("RAHUL-MASTER-V3 says: Unable to fetch repository information.");
         }
     } catch (error) {
         // Log the full error message for debugging
@@ -216,7 +216,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
  *Enjoy these images! 👾*
 
-> 🌈*Empire_X`
+> 🌈*RAHUL-MASTER-V3*`
 }, { quoted: mek });
 }
 
