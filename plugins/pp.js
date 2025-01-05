@@ -35,7 +35,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
     try {
         if (!isOwner) return reply('🚫 *You must be an Owner to use this command*');
         const duka = await conn.fetchPrivacySettings(true);
-        let puka = `🛠️  *Empire_X ᴡʜᴀᴛꜱᴀᴘᴘ ᴘʀɪᴠᴀᴄʏ ꜱᴇᴛᴛɪɴɢꜱ*  ⚙️
+        let puka = `🛠️  *RAHUL-MASTER-V3 ᴡʜᴀᴛꜱᴀᴘᴘ ᴘʀɪᴠᴀᴄʏ ꜱᴇᴛᴛɪɴɢꜱ*  ⚙️
 
 ⚙️▕  *Read Receipt* - ${duka.readreceipts}
 ⚙️▕  *Profile Picture* - ${duka.profile}
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
 
 ⚠️ *_This will not cause any trouble to you, and you can only check the privacy status of the bot. This will not harm your privacy in any way._* 🕊️‼️
 
-*Empire_X ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ʙᴏᴛ*`;
+*RAHUL-MASTER-V3 ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ʙᴏᴛ*`;
         await conn.sendMessage(from, { text: puka }, { quoted: mek });
     } catch (e) {
         reply('🚫 *An error occurred!*\n\n' + e);
