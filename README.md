@@ -3,7 +3,7 @@
 <h1 align="center"> RAHUL-MASTER-V3 </h1> 
 
 <p align="center">
-  <img alt="RAHUL-MASTER-V3" src="https://raw.githubusercontent.com/efeurhobo//main/lib/assets/rahul-master-v3.jpg">
+  <img alt="RAHUL-MASTER-V3" src="https://api.tioo.eu.org/file/24Mz9c3fxSHl.jpeg">
 </p>
 ---
   
