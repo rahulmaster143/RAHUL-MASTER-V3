@@ -40,10 +40,10 @@ cmd({
     if (!_0x222de9[0x0]) {
       return _0x18078b("*_Please give me a text. Eg .logo Carmen_*");
     }
-    let _0xffdb95 = "*🏞️ Empire_X Logo 🏞️*\n\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n*◈ᴛᴇxᴛ :* " + _0x34a07c + "\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n\n*🔢 Rᴇᴘʟʏ Tʜᴇ Nᴜᴍʙᴇʀ Yᴏᴜ Wᴀɴᴛ ➠*\n\n 1 ➠ Bʟᴀᴄᴋ Pɪɴᴋ\n 2 ➠ Bʟᴀᴄᴋ Pɪɴᴋ 2\n 3 ➠ Sɪʟᴠᴇʀ 3ᴅ\n 4 ➠ Nᴀʀᴜᴛᴏ\n 5 ➠ Dɪɢɪᴛᴀʟ Gʟɪᴛᴄʜ\n 6 ➠ Pɪxᴇʟ Gʟɪᴛᴄʜ\n 7 ➠ Cᴏᴍɪᴄ Sᴛʏʟᴇ\n 8 ➠ Nᴇᴏɴ Lɪɢʜᴛ\n 9 ➠ Fʀᴇᴇ Bᴇᴀʀ\n10 ➠ Dᴇᴠɪʟ Wɪɴɢꜱ\n11 ➠ Sᴀᴅ Gɪʀʟ\n12 ➠ Lᴇᴀᴠᴇꜱ\n13 ➠ Dʀᴀɢᴏɴ Bᴀʟʟ\n14 ➠ Hᴀɴᴅ Wʀɪᴛᴛᴇɴ\n15 ➠ Nᴇᴏɴ Lɪɢʜᴛ \n16 ➠ 3ᴅ Cᴀꜱᴛʟᴇ Pᴏᴘ\n17 ➠ Fʀᴏᴢᴇɴ ᴄʀɪꜱᴛᴍᴀꜱꜱ\n18 ➠ 3ᴅ Fᴏɪʟ Bᴀʟʟᴏɴꜱ\n19 ➠ 3ᴅ Cᴏʟᴏᴜʀꜰᴜʟ Pᴀɪɴᴛ\n20 ➠ Aᴍᴇʀɪᴄᴀɴ Fʟᴀɢ 3ᴅ\n\n>  © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡";
+    let _0xffdb95 = "*🏞️ RAHUL-MASTER-V3 Logo 🏞️*\n\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n*◈ᴛᴇxᴛ :* " + _0x34a07c + "\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n\n*🔢 Rᴇᴘʟʏ Tʜᴇ Nᴜᴍʙᴇʀ Yᴏᴜ Wᴀɴᴛ ➠*\n\n 1 ➠ Bʟᴀᴄᴋ Pɪɴᴋ\n 2 ➠ Bʟᴀᴄᴋ Pɪɴᴋ 2\n 3 ➠ Sɪʟᴠᴇʀ 3ᴅ\n 4 ➠ Nᴀʀᴜᴛᴏ\n 5 ➠ Dɪɢɪᴛᴀʟ Gʟɪᴛᴄʜ\n 6 ➠ Pɪxᴇʟ Gʟɪᴛᴄʜ\n 7 ➠ Cᴏᴍɪᴄ Sᴛʏʟᴇ\n 8 ➠ Nᴇᴏɴ Lɪɢʜᴛ\n 9 ➠ Fʀᴇᴇ Bᴇᴀʀ\n10 ➠ Dᴇᴠɪʟ Wɪɴɢꜱ\n11 ➠ Sᴀᴅ Gɪʀʟ\n12 ➠ Lᴇᴀᴠᴇꜱ\n13 ➠ Dʀᴀɢᴏɴ Bᴀʟʟ\n14 ➠ Hᴀɴᴅ Wʀɪᴛᴛᴇɴ\n15 ➠ Nᴇᴏɴ Lɪɢʜᴛ \n16 ➠ 3ᴅ Cᴀꜱᴛʟᴇ Pᴏᴘ\n17 ➠ Fʀᴏᴢᴇɴ ᴄʀɪꜱᴛᴍᴀꜱꜱ\n18 ➠ 3ᴅ Fᴏɪʟ Bᴀʟʟᴏɴꜱ\n19 ➠ 3ᴅ Cᴏʟᴏᴜʀꜰᴜʟ Pᴀɪɴᴛ\n20 ➠ Aᴍᴇʀɪᴄᴀɴ Fʟᴀɢ 3ᴅ\n\n>  © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡";
     const _0x39a514 = {
       'newsletterJid': '120363337275149306@newsletter',
-      'newsletterName': "Empire_X",
+      'newsletterName': "RAHUL-MASTER-V3",
       'serverMessageId': 0x3e7
     };
     const _0x5a943d = {
@@ -73,7 +73,7 @@ cmd({
               'image': {
                 'url': '' + _0x4ec74c.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -84,7 +84,7 @@ cmd({
               'image': {
                 'url': '' + _0x46d2d2.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -95,7 +95,7 @@ cmd({
               'image': {
                 'url': '' + _0x3a041b.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -106,7 +106,7 @@ cmd({
               'image': {
                 'url': '' + _0x33ee0f.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -117,7 +117,7 @@ cmd({
               'image': {
                 'url': '' + _0x34bc40.result.download_url
               },
-              'caption': "> Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -128,7 +128,7 @@ cmd({
               'image': {
                 'url': '' + _0x2114a3.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -139,7 +139,7 @@ cmd({
               'image': {
                 'url': '' + _0x1bb969.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -150,7 +150,7 @@ cmd({
               'image': {
                 'url': '' + _0x338421.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -161,7 +161,7 @@ cmd({
               'image': {
                 'url': '' + _0x893904.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -172,7 +172,7 @@ cmd({
               'image': {
                 'url': '' + _0x4ba5fb.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -183,7 +183,7 @@ cmd({
               'image': {
                 'url': '' + _0x598ffc.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -194,7 +194,7 @@ cmd({
               'image': {
                 'url': '' + _0x26ef9c.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -205,7 +205,7 @@ cmd({
               'image': {
                 'url': '' + _0x51ac7d.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -216,7 +216,7 @@ cmd({
               'image': {
                 'url': '' + _0x5e6aec.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -227,7 +227,7 @@ cmd({
               'image': {
                 'url': '' + _0xcdf22e.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -238,7 +238,7 @@ cmd({
               'image': {
                 'url': '' + _0x4feb5e.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -249,7 +249,7 @@ cmd({
               'image': {
                 'url': '' + _0xf4046a.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -260,7 +260,7 @@ cmd({
               'image': {
                 'url': '' + _0x144b2c.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -271,7 +271,7 @@ cmd({
               'image': {
                 'url': '' + _0x31d0fe.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -282,7 +282,7 @@ cmd({
               'image': {
                 'url': '' + _0x23294a.result.download_url
               },
-              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡⚡"
+              'caption': "> © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ RAHUL-MASTER-V3 ⚡⚡"
             }, {
               'quoted': _0x28282a
             });
@@ -309,7 +309,7 @@ cmd({
 }, async (conn, mek, m, { from, quoted, body, args, q, reply }) => {
     try {
         if (!q) {
-            return reply("*🏞️ Empire_X Fancy 🏞️*\n\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n*◈ᴛᴇxᴛ :* Provide a text to style, e.g. `.fancy Empire`\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻");
+            return reply("*🏞️ RAHUL-MASTER-V3 Fancy 🏞️*\n\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n*◈ᴛᴇxᴛ :* Provide a text to style, e.g. `.fancy Empire`\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻");
         }
 
         // Fetch fancy font styles
@@ -325,7 +325,7 @@ cmd({
             .map((font, index) => `${index + 1} ➠ ${font.name}`)
             .join('\n');
 
-        let initialMessage = `*🏞️ Empire_X Fancy 🏞️*\n\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n*◈ᴛᴇxᴛ :* ${q}\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n\n*🔢 Reply with the number of the style you want ➠*\n\n${fontOptions}\n\n>  © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡`;
+        let initialMessage = `*🏞️ RAHUL-MASTER-V3 Fancy 🏞️*\n\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n*◈ᴛᴇxᴛ :* ${q}\n╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼➻\n\n*🔢 Reply with the number of the style you want ➠*\n\n${fontOptions}\n\n>  © Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ Empire_X ⚡`;
 
         // Send the font options
         await conn.sendMessage(from, { text: initialMessage }, { quoted: mek });
