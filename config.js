@@ -8,8 +8,8 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || "2c9AxRoC#2idz_QjbUhWWlkjM62Snu5hKE9pHu5vkMTlPOqED-4o",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "919356730236",
-    AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || "false",
-    MODE: process.env.MODE || "public",
+    AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || "true",
+    MODE: process.env.MODE || "public"
     ALIVE_IMG: process.env.ALIVE_IMG || "https://api.tioo.eu.org/file/24Mz9c3fxSHl.jpeg",
     PREFIX: process.env.PREFIX || ".",
     OWNER_REACT: process.env.OWNER_REACT || "false",
