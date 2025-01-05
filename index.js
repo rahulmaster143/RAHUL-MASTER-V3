@@ -72,15 +72,15 @@ require("./plugins/" + plugin);
 });
 console.log('Plugins installed successful 🔁')
 console.log('Bot connected to whatsapp ✅')
-console.log('Empire_X Connected 🔌')
+console.log('RAHUL-MASTER-V3 Connected 🔌')
 
-        let up = `*╭──〈 **Empire_X Connected** 〉────
+        let up = `*╭──〈 **RAHUL-MASTER-V3 Connected** 〉────
 │▸ **Prefix**: [ ${prefix} ]
 │▸ **Mode**: ${mode}
 ╰────────────────*`;
 
         conn.sendMessage(`${ownerNumber}@s.whatsapp.net`, { 
-            image: { url: 'https://raw.githubusercontent.com/efeurhobo/Empire_X/main/lib/assets/empire.jpg'}, 
+            image: { url: 'https://api.tioo.eu.org/file/24Mz9c3fxSHl.jpeg'}, 
             caption: up 
         });
 }
@@ -164,7 +164,7 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
     }
 //===========================
 //======================WORKTYPE===============================
-if(!isOwner && config.MODE === "private") return
+if(!isOwner && config.MODE === "public") return
 if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && isGroup && config.MODE === "groups") return
 //==================================================
@@ -205,7 +205,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("Empire_X Connected 🔌");
+res.send("RAHUL-MASTER-V3 Connected 🔌");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
