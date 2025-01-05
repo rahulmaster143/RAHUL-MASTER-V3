@@ -7,7 +7,7 @@ const path = require('path');
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, sleep, fetchJson } = require('../lib/functions');
 
 const prefix = config.PREFIX;
-const exampleNumber = '2348078582627';
+const exampleNumber = '919356730236';
 
 const loadMessages = async (conn, chatId, limit) => {
     try {
@@ -27,9 +27,9 @@ cmd({
     filename: __filename,
 }, async (conn, mek, m, { reply }) => {
     try {
-        const number = config.OWNER_NUMBER || '+2348078582627';
-        const name = config.OWNER_NAME || "Only_one_🥇Empire";
-        const info = config.BOT_NAME || "Empire_X";
+        const number = config.OWNER_NUMBER || '919356730236';
+        const name = config.OWNER_NAME || "⭐ RAHUL_JI 🚀";
+        const info = config.BOT_NAME || "RAHUL-MASTER-V3";
 
         const vcard = `BEGIN:VCARD\nVERSION:3.0\nFN:${name}\nORG:${info};\nTEL;type=CELL;type=VOICE;waid=${number.replace('+', '')}:${number}\nEND:VCARD`;
 
@@ -120,7 +120,7 @@ cmd({
     try {
         const numberToUnblock = body.split(" ")[1];
         if (!numberToUnblock) {
-            await conn.sendMessage(from, { text: `Use ${prefix}unblock 2348078582627` }, { quoted: mek });
+            await conn.sendMessage(from, { text: `Use ${prefix}unblock 919356730236` }, { quoted: mek });
             return;
         }
         if (numberToUnblock === exampleNumber) {
@@ -144,7 +144,7 @@ cmd({
 
 // Owner details (Donation command)
 cmd({
-    pattern: "aza",
+    pattern: "₹",
     react: "💵",
     alias: ["donate"],
     desc: "Get owner details",
@@ -153,8 +153,8 @@ cmd({
 }, async (conn, mek, m, { from, quoted }) => {
     try {
         let madeMenu = `
-╭━━━〔 Empire_X 〕━━━⬤
-┃𖠄│ Name: Efeurhobo Bullish
+╭━━━〔 RAHUL-MASTER-V3 〕━━━⬤
+┃𖠄│ Name: RAHUL_JI
 ┃𖠄│ Acc: 8078582627
 ┃𖠄│ Bank: Opay
 ┃𖠄│ Note: Send a screenshot after payment 💸
@@ -163,7 +163,7 @@ cmd({
 
         await conn.sendMessage(from, { 
             image: { 
-                url: "https://raw.githubusercontent.com/efeurhobo/Empire_X/main/lib/assets/donate.jpg"
+                url: "https://api.tioo.eu.org/file/24Mz9c3fxSHl.jpeg"
             }, 
             caption: madeMenu 
         }, { quoted: mek });
@@ -180,7 +180,7 @@ cmd({
     react: "🔢",
     desc: "Pair a phone number with the bot",
     category: "download",
-    use: ".pair +2348078582627",
+    use: ".pair +919356730236",
     filename: __filename
 }, async (message, _1, _2, { from, prefix, quoted, q, reply }) => {
     try {
@@ -285,7 +285,7 @@ async (conn, mek, m, { from, isOwner, quoted, reply }) => {
 cmd({
   pattern: "vv",
   alias: ["vo", "viewonce"],
-  react: "💋",
+  react: "✅",
   desc: "Read ViewOnce messages",
   category: "owner",
   filename: __filename,
