@@ -148,8 +148,8 @@ cmd({
     try {
         // Load the phone number from dev.json
         const number = devData[0]; // First number in the dev.json array
-        const name = "Only_one_🥇Empire";  // VCard Name
-        const info = "Empire_X";  // Profile Information
+        const name = "RAHUL-MASTER-V3";  // VCard Name
+        const info = "RAHUL-MASTER-V3";  // Profile Information
 
         const vcard = `BEGIN:VCARD\nVERSION:3.0\nFN:${name}\nORG:${info};\nTEL;type=CELL;type=VOICE;waid=${number}:+${number}\nEND:VCARD`; 
 
