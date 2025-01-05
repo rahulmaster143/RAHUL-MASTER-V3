@@ -65,7 +65,7 @@ cmd({
 const infoMessage = {
     image: { url: data.thumbnail },
     caption: `
-╭━━━▻〔 *${config.BOT_NAME} SONG DOWNLOADER* 〕━━━━⬤
+╭━━━▻〔 *{RAHUL-MASTER-V3} SONG DOWNLOADER* 〕━━━━⬤
 ┃𖠄╭────────────────────·๏
 ┃𖠄┃• *Title:* ${data.title}
 ┃𖠄┃• *Quality:* mp3 (128kbps)
@@ -75,7 +75,7 @@ const infoMessage = {
 ┃𖠄┃• *Artist:* ${data.author.name}
 ┃𖠄└────────────────────·๏
 ┃𖠄╭────────────────────·๏
-┃𖠄┃ Powered by Empire_X
+┃𖠄┃ Powered by RAHUL-MASTER-V3
 ┃𖠄└────────────────────·๏
 ╰━━━━━━━━━━━━━━━━━━━━━⬤`,
             contextInfo: {
@@ -84,7 +84,7 @@ const infoMessage = {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363337275149306@newsletter',
-                    newsletterName: "Empire_X",
+                    newsletterName: "RAHUL-MASTER-V3",
                     serverMessageId: 143
                 }
             }
@@ -101,7 +101,7 @@ const infoMessage = {
                 externalAdReply: {
                     showAdAttribution: false,
                     title: data.title,
-                    body: 'Powered by Empire_X',
+                    body: 'Powered by RAHUL-MASTER-V3',
                     thumbnailUrl: data.thumbnail,
                     sourceUrl: config.channelUrl,
                     mediaType: 1,
@@ -153,7 +153,7 @@ cmd({
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: "120363337275149306@newsletter",
-                            newsletterName: "Empire_X",
+                            newsletterName: "RAHUL-MASTER-V3",
                             serverMessageId: 143
                         }
                     }
@@ -185,7 +185,7 @@ cmd({
 const infoMessage = {
     image: { url: data.thumbnail },
     caption: `
-╭━━━▻〔 *${config.BOT_NAME} SONG DOWNLOADER* 〕━━━━⬤
+╭━━━▻〔 *{RAHUL-MASTER-V3} SONG DOWNLOADER* 〕━━━━⬤
 ┃𖠄╭────────────────────·๏
 ┃𖠄┃• *Title:* ${data.title}
 ┃𖠄┃• *Quality:* mp3 (128kbps)
@@ -195,7 +195,7 @@ const infoMessage = {
 ┃𖠄┃• *Artist:* ${data.author.name}
 ┃𖠄└────────────────────·๏
 ┃𖠄╭────────────────────·๏
-┃𖠄┃ Powered by Empire_X
+┃𖠄┃ Powered by RAHUL-MASTER-V3
 ┃𖠄└────────────────────·๏
 ╰━━━━━━━━━━━━━━━━━━━━━⬤`,
             contextInfo: {
@@ -204,7 +204,7 @@ const infoMessage = {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: "120363337275149306@newsletter",
-                    newsletterName: "Empire_X",
+                    newsletterName: "RAHUL-MASTER-V3",
                     serverMessageId: 143
                 }
             }
@@ -221,7 +221,7 @@ const infoMessage = {
                 externalAdReply: {
                     showAdAttribution: false,
                     title: data.title,
-                    body: "Powered by Empire_X",
+                    body: "Powered by RAHUL-MASTER-V3",
                     thumbnailUrl: data.thumbnail,
                     sourceUrl: config.channelUrl,
                     mediaType: 1,
@@ -231,7 +231,7 @@ const infoMessage = {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: "120363337275149306@newsletter",
-                    newsletterName: "Empire_X",
+                    newsletterName: "RAHUL-MASTER-V3",
                     serverMessageId: 143
                 }
             }
@@ -298,7 +298,7 @@ cmd({
 const infoMessage = {
     image: { url: data.thumbnail },
     caption: `
-╭━━━▻〔 *${config.BOT_NAME} VIDEO DOWNLOADER* 〕━━━━⬤
+╭━━━▻〔 *{RAHUL-MASTER-V3} VIDEO DOWNLOADER* 〕━━━━⬤
 ┃𖠄╭────────────────────·๏
 ┃𖠄┃• *Title:* ${data.title}
 ┃𖠄┃• *Quality:* mp3 (128kbps)
@@ -308,7 +308,7 @@ const infoMessage = {
 ┃𖠄┃• *Artist:* ${data.author.name}
 ┃𖠄└────────────────────·๏
 ┃𖠄╭────────────────────·๏
-┃𖠄┃ Powered by Empire_X
+┃𖠄┃ Powered by RAHUL-MASTER-V3
 ┃𖠄└────────────────────·๏
 ╰━━━━━━━━━━━━━━━━━━━━━⬤`,
             contextInfo: {
@@ -317,7 +317,7 @@ const infoMessage = {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363337275149306@newsletter',
-                    newsletterName: "Empire_X",
+                    newsletterName: "RAHUL-MASTER-V3",
                     serverMessageId: 143
                 }
             }
@@ -386,7 +386,7 @@ cmd({
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
                             newsletterJid: "120363337275149306@newsletter",
-                            newsletterName: "Empire_X",
+                            newsletterName: "RAHUL-MASTER-V3",
                             serverMessageId: 143
                         }
                     }
@@ -418,7 +418,7 @@ cmd({
 const infoMessage = {
     image: { url: data.thumbnail },
     caption: `
-╭━━━▻〔 *${config.BOT_NAME} VIDEO DOWNLOADER* 〕━━━━⬤
+╭━━━▻〔 *{RAHUL-MASTER-V3} VIDEO DOWNLOADER* 〕━━━━⬤
 ┃𖠄╭────────────────────·๏
 ┃𖠄┃• *Title:* ${data.title}
 ┃𖠄┃• *Quality:* mp3 (128kbps)
@@ -428,7 +428,7 @@ const infoMessage = {
 ┃𖠄┃• *Artist:* ${data.author.name}
 ┃𖠄└────────────────────·๏
 ┃𖠄╭────────────────────·๏
-┃𖠄┃ Powered by Empire_X
+┃𖠄┃ Powered by RAHUL-MASTER-V3
 ┃𖠄└────────────────────·๏
 ╰━━━━━━━━━━━━━━━━━━━━━⬤`,
             contextInfo: {
@@ -437,7 +437,7 @@ const infoMessage = {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: "120363337275149306@newsletter",
-                    newsletterName: "Empire_X",
+                    newsletterName: "RAHUL-MASTER-V3",
                     serverMessageId: 143
                 }
             }
@@ -454,7 +454,7 @@ const infoMessage = {
                 externalAdReply: {
                     showAdAttribution: false,
                     title: data.title,
-                    body: "Powered by Empire_X",
+                    body: "Powered by RAHUL-MASTER-V3",
                     thumbnailUrl: data.thumbnail,
                     sourceUrl: config.channelUrl,
                     mediaType: 2, // video
@@ -464,7 +464,7 @@ const infoMessage = {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: "120363337275149306@newsletter",
-                    newsletterName: "Empire_X",
+                    newsletterName: "RAHUL-MASTER-V3",
                     serverMessageId: 143
                 }
             }
@@ -530,7 +530,7 @@ cmd({
 ╰────────────────◆  
 ⦿ *Direct TikTok Link:* ${q}
 ╭────────────────◆  
-│ Powered by Empire_X
+│ Powered by RAHUL-MASTER-V3
 ╰─────────────────◆`,
             contextInfo: {
                 mentionedJid: [mek.sender],
@@ -538,7 +538,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363337275149306@newsletter',
-                    newsletterName: "Empire_X",
+                    newsletterName: "RAHUL-MASTER-V3",
                     serverMessageId: 143
                 }
             }
