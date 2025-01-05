@@ -3,12 +3,12 @@ const { cmd, commands } = require('../command');
 const fs = require('fs');
 
 const prefix = config.PREFIX || ".";
-const mode = config.MODE || "private";
+const mode = config.MODE || "public";
 
 cmd({
     pattern: "menu",
     desc: "Get command list",
-    react: "⚙️",
+    react: "🎉",
     category: "main",
     filename: __filename
 },
@@ -54,7 +54,7 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 
         // Construct menu with the provided design
         let madeMenu = `
-╭━━━▻〔 *Empire_X* 〕━━━━━⬤
+╭━━━▻〔 *RAHUL-MASTER-V3* 〕━━━━━⬤
 ┃𖠄╭──────────────────
 ┃𖠄│ *Owner:* _${pushname}_
 ┃𖠄│ *Prefix:* _${prefix}_
