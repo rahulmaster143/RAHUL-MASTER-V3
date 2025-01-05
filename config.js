@@ -10,7 +10,7 @@ module.exports = {
     OWNER_NUMBER: process.env.OWNER_NUMBER || "919356730236",
     AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || "true",
     MODE: process.env.MODE || "public"
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://api.tioo.eu.org/file/24Mz9c3fxSHl.jpeg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/gVb2QjV/Manul-Ofc-X.jpg",
     PREFIX: process.env.PREFIX || ".",
     OWNER_REACT: process.env.OWNER_REACT || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
