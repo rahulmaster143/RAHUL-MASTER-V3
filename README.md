@@ -16,7 +16,7 @@
 6.  ***Deploy on [Railway]()***
 7.  ***Deploy on [Koyeb](https://app.koyeb.com/services/deploy?name=RAHUL-MASTER-V3&repository=efeurhobo%2FRAHUL-MASTER-V3&branch=main&instance_type=free&env%5BBOT_NAME%5D=RAHUL-MASTER-V3&env%5BAUTO_REACT%5D=true&env%5BOWNER_REACT%5D=true&env%5BPREFIX%5D=.&env%5BMODE%5D=private&env%5BAUTO_READ_STATUS%5D=false&env%5BOWNER_NUMBER%5D=2348078582627&env%5BSESSION_ID%5D=Put+session+I%27d+here)***
 8. ***Deploy on [Glitch]()***
-9. ***Deploy on [Render](https://rahul-master-v3 efeurhobo.vercel.app/).EDIT RENDER.YAML WORKING ✔️***
+9. ***Deploy on [Render](https://-empire-x vefeurhobo.vercel.app/).EDIT RENDER.YAML WORKING ✔️***
 10. ***Deploy on [Bot Hosting](https://bot-hosting.net/?aff=1148117314785529946).WORKING ✔️***
 ---
 - **Need help?** Please [Send a message](https://rahul-contact-form.vercel.app/).
