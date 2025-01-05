@@ -1,0 +1,70 @@
+{
+  "name": "Empire_X",
+  "description": "Javascript WhatsApp bot made by 𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐞𝐦𝐩𝐢𝐫𝐞",
+  "logo": "https://files.catbox.moe/r4decc.jpg",
+  "keywords": ["Empire_V1", "Bot"],
+  "success_url": "/",
+  "env": {
+    "OWNER_NUMBER": {
+      "description": "Put the owner number below.",
+      "value": "2348078582627",
+      "required": true
+    },
+    "SESSION_ID": {
+      "description": "Put session ID below.",
+      "value": "2c9AxRoC#2idz_QjbUhWWlkjM62Snu5hKE9pHu5vkMTlPOqED-4o",
+      "required": true
+    },
+    "MODE": {
+      "description": "Work type of your bot. Use 'public' or 'private'. If private, only the bot number can use it.",
+      "value": "private",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Owner name.",
+      "value": "𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐞𝐦𝐩𝐢𝐫𝐞",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Bot name.",
+      "value": "Empire_X",
+      "required": false
+    },
+    "AUTO_REACT": {
+      "description": "Enable auto-reaction. TRUE or FALSE.",
+      "value": "false",
+      "required": true
+    },
+    "OWNER_REACT": {
+      "description": "Enable owner reactions. TRUE or FALSE.",
+      "value": "false",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Enter your desired prefix for the bot. You can set `all | . | .!*`.",
+      "value": ".",
+      "required": true
+    },
+    "ALIVE_IMG": {
+      "description": "URL for the alive image.",
+      "value": "https://raw.githubusercontent.com/efeurhobo/Empire_X/main/lib/assets/empire.jpg",
+      "required": true
+    },
+    "CAPTION": {
+      "description": "do not change.",
+      "value": "Made By 𝐎𝐧𝐥𝐲_𝐨𝐧𝐞_🥇𝐞𝐦𝐩𝐢𝐫𝐞",
+      "required": false
+    },
+    "AUTO_VIEW_STATUS": {
+      "description": "Enable auto-read status with true or false.",
+      "value": "false",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-20"
+}
