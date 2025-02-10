@@ -5,11 +5,14 @@
 <p align="center">
   <img alt="RAHUL-MASTER-V3" src="https://files.catbox.moe/h2qai0.jpg">
 </p>
----
+
+---01 . GET YOUR SESSION ID USING PAIRCODE ✅
+
+<a href="https://foolish-sybil-rahulhiran51-09b19b79.koyeb.app/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-orangered?style=for-the-badge&logo=render"></a>
+<p/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-## Deployment Methods
----                       
-1.  ***Get Session Id by [Pairing Code](href="https://foolish-sybil-rahulhiran51-09b19b79.koyeb.app/) Link Device***
+) Link Device***
 2.  ***Click [Fork](https://github.com/efeurhobo/RAHUL-MASTER-V3/fork) and.  Star ⭐ Repository***
 4.  ***Deploy on [Heroku](https://efeurhobo-empire-x.vercel.app/)***
 5.  ***Deploy on [Replit]()***
