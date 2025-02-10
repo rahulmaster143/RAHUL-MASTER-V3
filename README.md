@@ -3,7 +3,7 @@
 <h1 align="center"> RAHUL-MASTER-V3 </h1> 
 
 <p align="center">
-  <img alt="RAHUL-MASTER-V3" src="https://i.ibb.co/d4GxTgKf/temp-image.jpg">
+  <img alt="RAHUL-MASTER-V3" src="https://files.catbox.moe/h2qai0.jpg">
 </p>
 
 ---01 . GET YOUR SESSION ID USING PAIRCODE ✅
